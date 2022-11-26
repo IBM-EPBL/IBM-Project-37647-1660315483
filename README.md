@@ -65,16 +65,36 @@ The main objective of this project is to analyze the parameters of various class
 3.	IDEATION & PROPOSED SOLUTION
 
 3.1	:Empathy Map Canvas
+
+
+
+
   ![image](https://user-images.githubusercontent.com/115479744/204080148-2c50efee-fc57-4f16-9101-cb6e14736e46.png)
+
+
+
+
 3.1: Ideation & Brainstorming
  
  
 
+
 ![image](https://user-images.githubusercontent.com/115479744/204080156-cc60a440-c92d-40ef-88c6-5cad473ba055.png)
 
 
+
+
+
+
 3.3	Proposed Solution
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/115479744/204080163-545ddb7c-6b0f-4f8c-ba8f-a5a4392839f5.png)
+
+
 
 
 3.4	Problem Solution fit
@@ -83,48 +103,126 @@ The Problem-Solution Fit simply means that you have found a problem with your cu
 Purpose:
 Solve complex problems in a way that fits the state of your customers. Succeed faster and increase your solution adoption by tapping into existing mediums and channels of behavior. Sharpen your communication and marketing strategy with the right triggers and messaging. Increase touch-points with your company by finding the right problem-behavior fit and building trust by solving frequent annoyances, or urgent or costly problems.
  
+ 
+ 
+ 
+ 
+ 
+ 
  ![image](https://user-images.githubusercontent.com/115479744/204080170-fc7e39de-c5a9-44f9-a289-6aba9970d6e3.png)
+
+
+
+
+
+
 
 
 4.	REQUIREMENT ANALYSIS
 
 4.1	Functional requirement
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/115479744/204080177-66807d15-c212-4c10-9bbd-0d662dfce53c.png)
+
+
+
 
 
 
 4.1 Non-Functional requirement
 
+
+
+
+
  ![image](https://user-images.githubusercontent.com/115479744/204080180-1fcc2795-06af-41b6-9ff8-428b8ad84f4e.png)
+
+
+
+
+
 
 5.	PROJECT DESIGN 5.1: Data Flow Diagrams
 
 
 
+
+
+
 ![image](https://user-images.githubusercontent.com/115479744/204080187-99707353-2492-4e37-aa51-6738cf39cb50.png)
 
+
+
+
+
 ![image](https://user-images.githubusercontent.com/115479744/204080191-3e81da24-eeba-44b1-9c3c-f097e067c0cb.png)
+
+
+
+
 
 
  
 5.2	Solution & Technical Architecture
 
 
+
+
+
 ![image](https://user-images.githubusercontent.com/115479744/204080199-39ee17d3-4712-4e89-b212-9a6b1c8ba94b.png)
 
+
+
+
+
+
 5.3	User Stories
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/115479744/204080202-8175c49e-fe66-4917-afab-0bb30c29a1a7.png)
+
+
+
+
+
 
 6.	PROJECT PLANNING & SCHEDULING
 
 6.1	Sprint Planning & Estimation
 
- ![image](https://user-images.githubusercontent.com/115479744/204080208-892586e7-dbc2-46f0-8a2d-8d8eea13befa.png)
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/115479744/204080208-892586e7-dbc2-46f0-8a2d-8d8eea13befa.png)
 
  
 
+
+
 ![Uploading image.png…]()
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/115479744/204080213-99924e41-2cbc-43e5-866f-9da4bb75d0b1.png)
+
+
+
+
+
+
 
 6.2	Reports from JIRA
 
